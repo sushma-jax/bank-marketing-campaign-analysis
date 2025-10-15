@@ -1,0 +1,61 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Excel / CSV raw or intermediate data files (too large for Git)
+*.csv
+*.xlsx
+*.xls
+*.ods
+
+# Power BI or Excel reports (not needed in repo)
+*.pbix
+*.xlsm
+
+# Output or result files
+outputs/
+reports/
+plots/
+figures/
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+
+# Compiled or generated files
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Environment variables or secrets
+.env
+*.json
+config.yaml
+
+# Cache files
+__pycache__/
+*.ipynb_checkpoints
+.cache/
+.pytest_cache/
