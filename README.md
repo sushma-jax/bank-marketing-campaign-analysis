@@ -57,8 +57,7 @@ Excel Dashboard shows
 - **Age Group vs. Deposit Rate:** younger (18–25) and senior (65+) customers have much higher subscription rates
   ![age_vs_depositrate](visuals/age_vs_depositrate.png)
 
-- **Conversion by Campaign Bucket:**
-  Shows that customers contacted 1–3 times have the highest conversion rates, while success drops sharply after multiple contact attempts.
+- **Conversion by Campaign Bucket:** Customers contacted 1–3 times have the highest conversion rates.
   ![conversion_by_campaignbucke](visuals/conversion_by_campaignbucket.png)
 
 - **Monthly Trend Analysis:** Campaigns run between **May–August** yield higher success.
