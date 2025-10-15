@@ -52,16 +52,16 @@ The dataset contains **4,500+ customer records**, covering both demographic and 
 ## 📊 Key Visuals
 Excel Dashboard shows
 - **Target Distribution:** Ratio of customers who subscribed vs. not subscribed
-  ![Target Distribution](visuals\Target_distribution.png)
+  ![Target_distribution](visuals\Target_distribution.png)
 
 - **Age Group vs. Deposit Rate:** younger (18–25) and senior (65+) customers have much higher subscription rates
-  ![Age Group vs. Deposit Rate](visuals\age_vs_depositrate.png)
+  ![age_vs_depositrate](visuals\age_vs_depositrate.png)
 
 - **Conversion by Campaign Bucket:** Shows that customers contacted 1–3 times have the highest conversion rates, while success drops sharply after multiple contact attempts.
-  ![Conversion by Campaign Bucket](visuals\conversion_by_campaignbucket.png)
+  ![conversion_by_campaignbucke](visuals\conversion_by_campaignbucket.png)
 
 - **Monthly Trend Analysis:** Campaigns run between **May–August** yield higher success.
-  ![Monthly Trend Analysis](visuals\conversionrate_by_month.png)
+  ![conversionrate_by_month](visuals\conversionrate_by_month.png)
 
 ---
 
